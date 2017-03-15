@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "London Voice CEN",
     "theme": {
       "name": "mobirise3",
@@ -10,7 +10,7 @@
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
+        "warningColor": "#000000",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -44,35 +44,34 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-r",
+          "_name": "header2",
+          "_anchor": "header2-s",
           "_params": {
-            "imageSize": "48",
-            "paddingTop": "4",
-            "paddingBottom": "7",
+            "imageSize": "56",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/london4-2000x1092.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.4",
             "overlayColor": "#50b7ed",
             "inverse": true,
             "showTitle": false,
             "showText": true,
-            "showButtons": false
+            "showButtons": false,
+            "showArrow": false
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/cenlogoalpha-1400x674.png",
-              "link": "page1.html",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -84,24 +83,24 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "class": "mbr-iconfont mbr-iconfont-header2",
               "link": "",
-              "size": 0
+              "size": 250
             }
           },
-          "title": "London's <span style=\"font-weight: normal;\">Clinical Excellence Network for</span> Voice SLTs<br>",
-          "text": "<b>London's Clinical Excellence Network for Voice SLTs</b><br><b><a href=\"page1.html\">Enter site...</a></b>",
+          "title": "London's <span style=\"font-weight: normal;\">Clinical Excellence Network for</span> Voice SLTs<div><a href=\"page1.html\">Enter site...</a></div>",
+          "text": "London's Clinical Excellence Network for Voice SLTs<br><a href=\"page1.html\" class=\"text-primary\">Enter site...</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "36px",
+            ".mbr-section-title": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "text-align": "left"
+              "color": "#ffffff"
             },
-            "B": {
-              "text-align": "left"
+            ".mbr-section-text": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
             }
           }
         },
