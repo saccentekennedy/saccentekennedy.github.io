@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "London Voice CEN",
     "theme": {
       "name": "mobirise3",
@@ -157,14 +157,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-family": "'Roboto Slab', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -196,11 +196,11 @@
           "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#9cd4f2",
-            "fontSize": 0.75,
+            "fontSize": "1.1",
             "fontName": {
-              "name": "Roboto Slab",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "css": "'Roboto Slab', serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
