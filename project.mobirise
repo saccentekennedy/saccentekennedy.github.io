@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 23,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -585,6 +585,39 @@
           }
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-j",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 London Voice CEN."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#9cd4f2"
+          },
+          "text": "<h1>Follow us on <a href=\"http://www.twitter.com/VoiceCENLondon\" target=\"_blank\"><i class=\"socicon socicon-twitter\"></i></a></h1>"
+        },
+        {
           "alias": "social-feed",
           "_tags": [
             "Extension"
@@ -592,7 +625,7 @@
           "_name": "feed",
           "_anchor": "feed-e",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "youtube": "",
             "facebook": "",
