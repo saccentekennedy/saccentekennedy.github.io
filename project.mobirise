@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "London Voice CEN",
     "theme": {
       "name": "mobirise3",
@@ -190,7 +190,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -436,7 +436,7 @@
             }
           },
           "title": "The London Voice CEN invite you to join us as a member in 2017!",
-          "text": "<br>Membership is free from January 2017 to 31st December 2017. We offer events, seminars and workshops aimed at Speech and Language Therapists with an interest in disorders of the vocal tract. Becoming a member will help keep you informed of upcoming events and developments within the field.<br><br>You must renew membership every year, it will NOT automatically renew.<br><br><b>PLEASE NOTE: </b>Membership is available to Speech and Language Therapists and SLT students, who are members of the RCSLT. We encourage colleagues who are singers, singing teachers, vocal coaches and lecturers, amongst others, to join our contacts list. You will be invited to attend our events at a non-members rate. Please use the contact us form in order to request that you be placed on our contacts list for non-members.<br>",
+          "text": "<br>Membership is free from January 2017 to 31st December 2017. We offer events, seminars and workshops aimed at Speech and Language Therapists with an interest in disorders of the vocal tract. Becoming a member will help keep you informed of upcoming events and developments within the field.<br><br>You must renew membership every year, it will NOT automatically renew.<br><br><b>PLEASE NOTE: </b>Membership is available to Speech and Language Therapists and SLT students who are members of the RCSLT. We encourage colleagues who are singers, singing teachers, vocal coaches and lecturers, amongst others, to <b>join our contacts list</b>. You will be invited to attend our events at a non-members rate. Please use the contact us form in order to request that you be placed on our contacts list for non-members.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
