@@ -260,7 +260,9 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page1.html#content1-7\" data-toolbar=\"-mbrBtnMove\">COMMITTEE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#msg-box5-8\" data-toolbar=\"-mbrBtnMove\">MEMBERSHIP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#content1-b\" data-toolbar=\"-mbrBtnMove\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#msg-box5-c\" data-toolbar=\"-mbrBtnMove\">MEMBERS' FORUM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#form1-d\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-lead": {
               "text-align": "left"
@@ -278,7 +280,13 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h1>CEN Committee</h1>"
+          "text": "<h1>CEN Committee</h1>",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -443,7 +451,9 @@
             },
             "H3": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         },
@@ -458,7 +468,22 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h1>CEN EVENTS</h1>"
+          "text": "<h1>CEN EVENTS</h1>",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "left"
+            },
+            "UL": {
+              "text-align": "right"
+            },
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "48px"
+            }
+          }
         },
         {
           "_tags": [
@@ -467,7 +492,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-a",
           "_params": {
-            "imageSize": "28",
+            "imageSize": "33",
             "paddingTop": "0",
             "paddingBottom": "1",
             "parallax": true,
@@ -510,7 +535,7 @@
             }
           },
           "title": "CEN EVENTS",
-          "text": "The CEN aims to provide at least two study days per year for our members. Owing to the recent surge in our membership numbers, we intend for one study day to address the needs of our less experienced members and the other study day to address a topic which is more specialist and caters to our members with many years' of experience. <br><br><b>Please check back here regularly for announcements regarding 2017's events, which we are hard at work preparing!</b><br><br><i>Previous events have included...</i><br>- <b>Key Aspects of the Estill Model</b> with Kiereen Lock - December 2016<br>- <b>Systemic Illness and the Larynx</b> (Joint with British Laryngological Association) -&nbsp;<br>- <b>Experiential Voice Work with Lyn Darnley</b>, Head of Voice at the RSC, December 2015<br>- <b>Restocking the Therapy Toolbox</b> with Gary Wood, Tori Burnay, Sara Harris and Julia Selby, &nbsp; &nbsp; <br>&nbsp; &nbsp;September 2015<br>- <b>Voice and Respiratory Disorders</b> with Dr James Hull, Julia Selby and colleagues, &nbsp;May 2015<br>- <b>Best Practice in Auditory, Acoustic and Perceptual Evaluation of the Voice</b> with Nancy Solomon <br>&nbsp; &nbsp;(Joint with BVA), January 2015&nbsp;",
+          "text": "The CEN aims to provide at least two study days per year for our members. Owing to the recent surge in our membership numbers, we intend for one study day to address the needs of our less experienced members and the other study day to address a topic which is more specialist and caters to our members with many years' of experience. <br><br><b>Please check back here regularly for announcements regarding 2017's events, which we are hard at work preparing!</b><br><br><i>Previous events have included...</i><br>- <b>Key Aspects of the Estill Model</b> with Kiereen Lock - December 2016<br>- <b>Systemic Illness and the Larynx</b> (Joint with British Laryngological Association) -&nbsp;<br>- <b>Experiential Voice Work with Lyn Darnley</b>, Head of Voice at the RSC, December 2015<br>- <b>Restocking the Therapy Toolbox</b> with Gary Wood, Tori Burnay, Sara Harris and Julia Selby, &nbsp; &nbsp; <br>&nbsp; &nbsp;September 2015<br>- <b>Voice and Respiratory Disorders</b> with Dr James Hull, Julia Selby and colleagues, &nbsp;May 2015<br>- <b>Best Practice in Auditory, Acoustic and Perceptual Evaluation of the Voice</b> with Nancy <br>&nbsp; &nbsp;Solomon (Joint with BVA), January 2015&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "H3": {
@@ -532,7 +557,9 @@
             },
             "H3": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "msg-box5-c",
@@ -639,7 +666,9 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "SMALL": {
               "text-align": "left"
@@ -682,7 +711,13 @@
             "paddingBottom": "0",
             "bgColor": "#9cd4f2"
           },
-          "text": "<h1>Follow us on <a href=\"http://www.twitter.com/VoiceCENLondon\" target=\"_blank\"><i class=\"socicon socicon-twitter\"></i></a></h1>"
+          "text": "<h1>Follow us on <a href=\"http://www.twitter.com/VoiceCENLondon\" target=\"_blank\"><i class=\"socicon socicon-twitter\"></i></a></h1>",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
         },
         {
           "alias": "social-feed",

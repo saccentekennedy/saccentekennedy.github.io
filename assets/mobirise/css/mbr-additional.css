@@ -432,6 +432,14 @@ h6,
   color: #ffffff;
 }
 
+
+
+
+
+
+
+
+
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -496,9 +504,13 @@ h6,
 }
 #header1-2 .mbr-section-title {
   text-align: left;
+  font-family: 'Oswald', sans-serif;
 }
 #header1-2 .mbr-section-lead {
   text-align: left;
+}
+#content1-7 H1 {
+  font-family: 'Oswald', sans-serif;
 }
 #msg-box5-8 P {
   text-align: left;
@@ -506,6 +518,18 @@ h6,
 #msg-box5-8 H3 {
   text-align: left;
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#content1-b H1 {
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
+}
+#content1-b UL {
+  text-align: right;
+}
+#content1-b P {
+  font-family: 'Oswald', sans-serif;
+  font-size: 48px;
 }
 #msg-box5-a H3 {
   text-align: left;
@@ -519,16 +543,21 @@ h6,
 #msg-box5-c H3 {
   text-align: left;
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #form1-d .form-control-label {
   color: #232323;
 }
 #form1-d .mbr-section-title {
   text-align: left;
+  font-family: 'Oswald', sans-serif;
 }
 #form1-d SMALL {
   text-align: left;
 }
 #footer1-j P {
   color: #ffffff;
+}
+#content1-m H1 {
+  font-family: 'Oswald', sans-serif;
 }
