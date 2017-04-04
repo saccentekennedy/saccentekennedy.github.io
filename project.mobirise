@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 32,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -45,6 +45,18 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
+            }
+          },
           "_anchor": "header2-s",
           "_params": {
             "imageSize": "56",
@@ -90,25 +102,18 @@
           },
           "title": "London's <span style=\"font-weight: normal;\">Clinical Excellence Network for</span> Voice SLTs<div><a href=\"page1.html\">Enter site...</a></div>",
           "text": "London's Clinical Excellence Network for Voice SLTs<br><a href=\"page1.html\" class=\"text-primary\">Enter site...</a><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#ffffff"
-            },
-            ".mbr-section-text": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "30px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-j",
           "_params": {
             "paddingTop": "1",
@@ -122,12 +127,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "(c) London Voice CEN 2017",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "(c) London Voice CEN 2017"
         }
       ]
     },
@@ -235,6 +235,16 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header1-2",
           "_params": {
             "parallax": true,
@@ -257,46 +267,36 @@
           },
           "title": "Who are we?<br><br>",
           "text": "The London Voice CEN (Clinical Excellence Network) provides events that further the knowledge and skills of speech and language therapists with a special interest in voice. Events are run by a voluntary committee of SLTs with a passion for voice therapy and the vocal tract.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page1.html#content1-7\" data-toolbar=\"-mbrBtnMove\">COMMITTEE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#msg-box5-8\" data-toolbar=\"-mbrBtnMove\">MEMBERSHIP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#content1-b\" data-toolbar=\"-mbrBtnMove\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#msg-box5-c\" data-toolbar=\"-mbrBtnMove\">MEMBERS' FORUM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#form1-d\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-lead": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page1.html#content1-7\" data-toolbar=\"-mbrBtnMove\">COMMITTEE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#msg-box5-8\" data-toolbar=\"-mbrBtnMove\">MEMBERSHIP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#content1-b\" data-toolbar=\"-mbrBtnMove\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#msg-box5-c\" data-toolbar=\"-mbrBtnMove\">MEMBERS' FORUM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#form1-d\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "content1-7",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h1>CEN Committee</h1>",
-          "_styles": {
-            "H1": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "text": "<h1>CEN Committee</h1>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-5",
+          "_anchor": "features3-v",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -318,7 +318,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/brian-saccente-kennedy-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/brian-saccente-kennedy-600x600-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -334,51 +334,67 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170401-wa0005-600x600.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Leila Williams",
           "subtitle2": "Treasurer",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption2": "Leila Williams is a Speech and Language Therapist working in east Kent, specialising in working with clients with voice disorders and laryngectomy. After qualifying and moving to Kent 10 years ago, she liked it so much, she never left. Leila enjoys all aspects of her work with dysphonia and has recently been involved in singing with a choral society for the first time.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170329-wa0002-01-600x600.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Tom Butler",
           "subtitle3": "Membership Secretary",
-          "caption3": "",
+          "caption3": "Tom was awarded a 1st class honours degree in Psychology in 2008 and then trained as a Speech Therapist at University College London, gaining his masters in 2011. Tom has over 5 years experience working in voice; his current position being a Highly Specialist Speech Therapist in ENT/Voice for London North West Healthcare NHS Trust. Tom also runs a private clinic and has started giving talks on voice, most recently to the speech therapy department at Oslo University Hospital, Norway. Tom has been a committee member of the London Voice CEN since 2015 and currently holds the position of Membership Secretary. ",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170401-wa0009-01-600x600.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Sally MacLean",
           "subtitle4": "Meeting Secretary",
-          "caption4": "",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170329-wa0001-600x599.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title5": "Fiona Gillies",
-          "subtitle5": "Coopted Committee Member",
-          "caption5": "",
+          "subtitle5": "Co-opted Member",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
@@ -398,6 +414,17 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "msg-box5-8",
           "_params": {
             "imageSize": "29",
@@ -444,31 +471,13 @@
           },
           "title": "The London Voice CEN invite you to join us as a member in 2017!",
           "text": "<br>Membership is free from January 2017 to 31st December 2017. We offer events, seminars and workshops aimed at Speech and Language Therapists with an interest in disorders of the vocal tract. Becoming a member will help keep you informed of upcoming events and developments within the field.<br><br>You must renew membership every year, it will NOT automatically renew.<br><br><b>PLEASE NOTE: </b>Membership is available to Speech and Language Therapists and SLT students who are members of the RCSLT. We encourage colleagues who are singers, singing teachers, vocal coaches and lecturers, amongst others, to <b>join our contacts list</b>. You will be invited to attend our events at a non-members rate. Please use the contact us form in order to request that you be placed on our contacts list for non-members.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left",
-              "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-b",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<h1>CEN EVENTS</h1>",
           "_styles": {
             "H1": {
               "font-family": "'Oswald', sans-serif",
@@ -483,13 +492,28 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "48px"
             }
-          }
+          },
+          "_anchor": "content1-b",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<h1>CEN EVENTS</h1>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-a",
           "_params": {
             "imageSize": "33",
@@ -536,15 +560,7 @@
           },
           "title": "CEN EVENTS",
           "text": "The CEN aims to provide at least two study days per year for our members. Owing to the recent surge in our membership numbers, we intend for one study day to address the needs of our less experienced members and the other study day to address a topic which is more specialist and caters to our members with many years' of experience. <br><br><b>Please check back here regularly for announcements regarding 2017's events, which we are hard at work preparing!</b><br><br><i>Previous events have included...</i><br>- <b>Key Aspects of the Estill Model</b> with Kiereen Lock - December 2016<br>- <b>Systemic Illness and the Larynx</b> (Joint with British Laryngological Association) -&nbsp;<br>- <b>Experiential Voice Work with Lyn Darnley</b>, Head of Voice at the RSC, December 2015<br>- <b>Restocking the Therapy Toolbox</b> with Gary Wood, Tori Burnay, Sara Harris and Julia Selby, &nbsp; &nbsp; <br>&nbsp; &nbsp;September 2015<br>- <b>Voice and Respiratory Disorders</b> with Dr James Hull, Julia Selby and colleagues, &nbsp;May 2015<br>- <b>Best Practice in Auditory, Acoustic and Perceptual Evaluation of the Voice</b> with Nancy <br>&nbsp; &nbsp;Solomon (Joint with BVA), January 2015&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -615,6 +631,19 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "SMALL": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "form1-d",
           "_params": {
             "labelsColor": "#232323",
@@ -660,26 +689,18 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "SMALL": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-j",
           "_params": {
             "paddingTop": "1",
@@ -693,31 +714,26 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "(c) London Voice CEN 2017",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "(c) London Voice CEN 2017"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "content1-m",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
             "bgColor": "#9cd4f2"
           },
-          "text": "<h1>Follow us on <a href=\"http://www.twitter.com/VoiceCENLondon\" target=\"_blank\"><i class=\"socicon socicon-twitter\"></i></a></h1>",
-          "_styles": {
-            "H1": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "text": "<h1>Follow us on <a href=\"http://www.twitter.com/VoiceCENLondon\" target=\"_blank\"><i class=\"socicon socicon-twitter\"></i></a></h1>"
         },
         {
           "alias": "social-feed",
